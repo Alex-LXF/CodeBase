@@ -1,0 +1,5 @@
+﻿  MyString.cpp
+c:\users\lxf\documents\visual studio 2013\projects\模拟实现string类\模拟实现string类\mystring.cpp(135): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\lxf\documents\visual studio 2013\projects\模拟实现string类\模拟实现string类\mystring.cpp(203): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\lxf\documents\visual studio 2013\projects\模拟实现string类\模拟实现string类\mystring.cpp(323): warning C4018: “<”: 有符号/无符号不匹配
+LINK : fatal error LNK1561: 必须定义入口点
