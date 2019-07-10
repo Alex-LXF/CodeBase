@@ -15,6 +15,9 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
+    <ClCompile Include="BSTree.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
     <ClCompile Include="AVLTree.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
